@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "crystalmagic",
+  "version": "${version}",
+
+  "name": "CrystalMagic",
+  "description": "Do you believe in magic?",
+  "authors": [
+    "TheClaus"
+  ],
+  "contact": {
+    "homepage": "",
+    "sources": "https://github.com/TheClaus/CrystalMagic"
+  },
+
+  "license": "MIT",
+  "icon": "assets/crystalmagic/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.clausgames.crystalmagic.CrystalMagic"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
