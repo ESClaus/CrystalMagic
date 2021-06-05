@@ -1,0 +1,18 @@
+{
+  "name": "The End",
+  "icon": "crystalmagic:ore_umbral_crystal",
+  "category": "worldgen_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You have venture to the end and found an ore that emits a darkness within it.  This ore will grant you abilities to harness the power of darkness."
+    },
+
+    {
+      "type": "spotlight",
+      "title": "Umbral Crystal Ore",
+      "text": "Cool to the touch, perhaps it can be harness and used in machines and equipment. $(br2)Can be smelted for umbral crystal shards.",
+      "item": "crystalmagic:ore_umbral_crystal"
+    }
+  ]
+}

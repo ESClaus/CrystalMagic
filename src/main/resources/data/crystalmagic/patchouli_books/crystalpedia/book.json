@@ -1,0 +1,7 @@
+{
+  "name": "item.crystalmagic.crystalpedia",
+  "landing_text": "LANDING TEXT",
+  "version": "buildNumber",
+  "model": "crystalmagic:crystalpedia",
+  "creative_tab": "crystalmagic.general"
+}

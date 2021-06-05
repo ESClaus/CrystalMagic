@@ -1,0 +1,18 @@
+{
+  "name": "The Nether",
+  "icon": "crystalmagic:ore_thermal_crystal",
+  "category": "worldgen_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "You have made it to the nether and found an ore that emits magical essence of the nether.  This ore will grant you abilities to harness the power of the nether in ways that you can not fathom."
+    },
+
+    {
+      "type": "spotlight",
+      "title": "Thermal Crystal Ore",
+      "text": "Warm to the touch, perhaps it can be harness and used in machines and equipment. $(br2)Can be smelted for thermal crystal shards.",
+      "item": "crystalmagic:ore_thermal_crystal"
+    }
+  ]
+}

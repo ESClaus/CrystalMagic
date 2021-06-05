@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "crystalmagic:item/umbral_crystal_shard"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "block.crystalmagic.ore_crystal": "Crystal Ore",
+  "block.crystalmagic.ore_thermal_crystal": "Thermal Crystal Ore",
+  "block.crystalmagic.ore_umbral_crystal": "Umbral Crystal Ore",
+  "item.crystalmagic.aerial_crystal_shard": "Aerial Crystal Shard",
+  "item.crystalmagic.aqueous_crystal_shard": "Aqueous Crystal Shard",
+  "item.crystalmagic.crystal_shard": "Crystal Shard",
+  "item.crystalmagic.luminous_crystal_shard": "Luminous Crystal Shard",
+  "item.crystalmagic.metallic_crystal_shard": "Metallic Crystal Shard",
+  "item.crystalmagic.thermal_crystal_shard": "Thermal Crystal Shard",
+  "item.crystalmagic.umbral_crystal_shard": "Umbral Crystal Shard",
+  "item.crystalmagic.crystalpedia": "Crystalpedia",
+  "itemGroup.crystalmagic.general": "Crystal Magic"
+}

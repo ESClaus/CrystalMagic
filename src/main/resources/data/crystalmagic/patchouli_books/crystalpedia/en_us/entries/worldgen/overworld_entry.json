@@ -1,0 +1,18 @@
+{
+  "name": "Overworld",
+  "icon": "crystalmagic:ore_crystal",
+  "category": "worldgen_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "A block have been added to the overworld for you to find.  With this block you will be able to unlock the beginnings of Crystal Magic."
+    },
+
+    {
+      "type": "spotlight",
+      "title": "Crystal Ore",
+      "text": "Think of the stone age but for Crystal Magic. This block is found deep in the world.$(br2)Can be smelted for crystal shards.",
+      "item": "crystalmagic:ore_crystal"
+    }
+  ]
+}
